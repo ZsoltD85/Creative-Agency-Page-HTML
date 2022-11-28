@@ -28,6 +28,14 @@
   --dl-color-scheme-lightbrown: #f9f4f0ff;
   --dl-space-space-oneandhalfunits: 24px;
 }
+.3 {
+  font-size: 36px;
+  font-family: DM Serif Display;
+  font-weight: 400;
+  line-height: 70px;
+  letter-spacing: 0.01em;
+  text-decoration: none;
+}
 .button {
   color: var(--dl-color-scheme-black);
   display: inline-block;
@@ -286,7 +294,40 @@
   text-decoration: none;
 }
 .Heading1 {
-  font-size: 56px;
+  font-size: 36px;
+  font-family: DM Serif Display;
+  font-weight: 400;
+  line-height: 70px;
+  letter-spacing: 0.01em;
+  text-decoration: none;
+}
+.Heading {
+  font-size: 44px;
+  font-family: DM Serif Display;
+  font-weight: 400;
+  line-height: 70px;
+  letter-spacing: 0.01em;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.Heading3 {
+  font-size: 36px;
+  font-family: DM Serif Display;
+  font-weight: 400;
+  line-height: 70px;
+  letter-spacing: 0.01em;
+  text-decoration: none;
+}
+.Heading4 {
+  font-size: 24px;
+  font-family: DM Serif Display;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.01em;
+  text-decoration: none;
+}
+.Heading5 {
+  font-size: 36px;
   font-family: DM Serif Display;
   font-weight: 400;
   line-height: 70px;
