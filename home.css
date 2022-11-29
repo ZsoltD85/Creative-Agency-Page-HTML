@@ -380,12 +380,6 @@
   margin-bottom: var(--dl-space-space-unit);
   flex-direction: row;
 }
-.home-icon10 {
-  fill: var(--dl-color-scheme-brown);
-  width: 18px;
-  height: 18px;
-  margin-right: var(--dl-space-space-unit);
-}
 .home-text24 {
   font-style: normal;
   font-weight: 500;

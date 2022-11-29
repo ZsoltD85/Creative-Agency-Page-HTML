@@ -269,6 +269,13 @@
 .tab-selector-btn:active {
   box-shadow: inset 0px -2px 0px #B6472F;
 }
+.icon {
+  fill: var(--dl-color-scheme-brown);
+  width: 18px;
+  height: 18px;
+  min-width: 18px;
+  margin-right: var(--dl-space-space-unit);
+}
 .Navigation-Link {
   font-size: 16px;
   font-family: DM Sans;
