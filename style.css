@@ -84,9 +84,9 @@
   display: flex;
   position: relative;
   align-items: center;
-  padding-top: var(--dl-space-space-sixunits);
+  padding-top: 112px;
   flex-direction: column;
-  padding-bottom: var(--dl-space-space-sixunits);
+  padding-bottom: 112px;
 }
 .max-content-container {
   width: 100%;
@@ -278,11 +278,44 @@
   text-transform: capitalize;
   text-decoration: none;
 }
+.Heading {
+  font-size: 44px;
+  font-family: DM Serif Display;
+  font-weight: 400;
+  line-height: 70px;
+  letter-spacing: 0.01em;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.Heading4 {
+  font-size: 24px;
+  font-family: DM Serif Display;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.01em;
+  text-decoration: none;
+}
+.Heading3 {
+  font-size: 36px;
+  font-family: DM Serif Display;
+  font-weight: 400;
+  line-height: 70px;
+  letter-spacing: 0.01em;
+  text-decoration: none;
+}
 .Heading2 {
   font-size: 46px;
   font-family: DM Serif Display;
   font-weight: 400;
   line-height: 63px;
+  letter-spacing: 0.01em;
+  text-decoration: none;
+}
+.Heading5 {
+  font-size: 36px;
+  font-family: DM Serif Display;
+  font-weight: 400;
+  line-height: 70px;
   letter-spacing: 0.01em;
   text-decoration: none;
 }
@@ -294,39 +327,6 @@
   text-decoration: none;
 }
 .Heading1 {
-  font-size: 36px;
-  font-family: DM Serif Display;
-  font-weight: 400;
-  line-height: 70px;
-  letter-spacing: 0.01em;
-  text-decoration: none;
-}
-.Heading {
-  font-size: 44px;
-  font-family: DM Serif Display;
-  font-weight: 400;
-  line-height: 70px;
-  letter-spacing: 0.01em;
-  text-transform: uppercase;
-  text-decoration: none;
-}
-.Heading3 {
-  font-size: 36px;
-  font-family: DM Serif Display;
-  font-weight: 400;
-  line-height: 70px;
-  letter-spacing: 0.01em;
-  text-decoration: none;
-}
-.Heading4 {
-  font-size: 24px;
-  font-family: DM Serif Display;
-  font-weight: 400;
-  line-height: 24px;
-  letter-spacing: 0.01em;
-  text-decoration: none;
-}
-.Heading5 {
   font-size: 36px;
   font-family: DM Serif Display;
   font-weight: 400;
