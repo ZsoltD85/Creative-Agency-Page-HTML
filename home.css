@@ -814,7 +814,7 @@
   object-fit: cover;
 }
 .home-text121 {
-  color: var(--dl-color-scheme-darkblue);
+  color: var(--dl-color-scheme-white);
   align-self: center;
 }
 @media(max-width: 991px) {
