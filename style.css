@@ -1,7 +1,7 @@
 :root {
   --dl-size-size-large: 144px;
   --dl-size-size-small: 48px;
-  --dl-color-scheme-map: #0d1b2aff;
+  --dl-color-scheme-map: #415a77ff;
   --dl-size-size-medium: 96px;
   --dl-size-size-xlarge: 192px;
   --dl-size-size-xsmall: 16px;
@@ -13,7 +13,7 @@
   --dl-color-scheme-brown: #914332ff;
   --dl-color-scheme-white: #FFFFFF;
   --dl-size-size-maxwidth: 988px;
-  --dl-color-scheme-footer: #000000ff;
+  --dl-color-scheme-footer: #0d1b2aff;
   --dl-color-scheme-header: #e0e1ddff;
   --dl-radius-radius-round: 50%;
   --dl-color-original-black: #0f1722ff;
@@ -47,7 +47,7 @@
   --dl-color-scheme-about-us-text: #000000ff;
   --dl-color-scheme-services-card: #bfcde0ff;
   --dl-color-scheme-services-text: #000000ff;
-  --dl-color-scheme-checkmark-icon: #1b263bff;
+  --dl-color-scheme-checkmark-icon: #0d1b2aff;
   --dl-space-space-oneandhalfunits: 24px;
   --dl-color-scheme-icon-background: #778da9ff;
 }

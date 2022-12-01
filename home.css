@@ -343,7 +343,7 @@
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
-  margin-bottom: var(--dl-space-space-halfunit);
+  margin-bottom: var(--dl-space-space-unit);
 }
 .home-text021 {
   color: var(--dl-color-scheme-services-text);
@@ -374,7 +374,7 @@
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
-  margin-bottom: var(--dl-space-space-halfunit);
+  margin-bottom: var(--dl-space-space-unit);
 }
 .home-text032 {
   color: var(--dl-color-scheme-services-text);
@@ -405,7 +405,7 @@
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
-  margin-bottom: var(--dl-space-space-halfunit);
+  margin-bottom: var(--dl-space-space-unit);
 }
 .home-text042 {
   color: var(--dl-color-scheme-services-text);
@@ -436,7 +436,7 @@
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
-  margin-bottom: var(--dl-space-space-halfunit);
+  margin-bottom: var(--dl-space-space-unit);
 }
 .home-text050 {
   color: var(--dl-color-scheme-services-text);
@@ -466,7 +466,7 @@
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
-  margin-bottom: var(--dl-space-space-halfunit);
+  margin-bottom: var(--dl-space-space-unit);
 }
 .home-text052 {
   color: var(--dl-color-scheme-services-text);
@@ -496,7 +496,7 @@
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
-  margin-bottom: var(--dl-space-space-halfunit);
+  margin-bottom: var(--dl-space-space-unit);
 }
 .home-text066 {
   color: var(--dl-color-scheme-services-text);
@@ -518,7 +518,8 @@
   margin-bottom: var(--dl-space-space-unit);
 }
 .home-text079 {
-  color: var(--dl-color-scheme-headertext);
+  color: var(--dl-color-scheme-white);
+  font-size: 20px;
   text-align: center;
 }
 .home-about {
