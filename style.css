@@ -39,7 +39,7 @@
   --dl-color-original-darkblue: #191919ff;
   --dl-color-original-darkgray: #9095a7ff;
   --dl-color-scheme-contact-us: #d5dce6ff;
-  --dl-color-scheme-headertext: #f4f4f4ff;
+  --dl-color-scheme-headertext: #000000ff;
   --dl-color-original-lightblue: #162d5aff;
   --dl-color-original-lightgray: #ddf5f5ff;
   --dl-color-original-lightbrown: #f9f4f0ff;
@@ -48,6 +48,7 @@
   --dl-color-scheme-services-card: #bfcde0ff;
   --dl-color-scheme-services-text: #000000ff;
   --dl-color-scheme-checkmark-icon: #0d1b2aff;
+  --dl-color-scheme-services-text1: #ffffffff;
   --dl-space-space-oneandhalfunits: 24px;
   --dl-color-scheme-icon-background: #778da9ff;
 }
@@ -290,6 +291,9 @@
 }
 .check-item {
   margin: var(--dl-space-space-halfunit);
+}
+.home-image {
+  box-shadow: 5px 10px 20px;
 }
 .Navigation-Link {
   font-size: 16px;
