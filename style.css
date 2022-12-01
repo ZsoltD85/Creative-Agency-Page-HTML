@@ -1,6 +1,7 @@
 :root {
   --dl-size-size-large: 144px;
   --dl-size-size-small: 48px;
+  --dl-color-scheme-map: #0d1b2aff;
   --dl-size-size-medium: 96px;
   --dl-size-size-xlarge: 192px;
   --dl-size-size-xsmall: 16px;
@@ -12,6 +13,8 @@
   --dl-color-scheme-brown: #914332ff;
   --dl-color-scheme-white: #FFFFFF;
   --dl-size-size-maxwidth: 988px;
+  --dl-color-scheme-footer: #0d1b2aff;
+  --dl-color-scheme-header: #e0e1ddff;
   --dl-radius-radius-round: 50%;
   --dl-color-original-black: #0f1722ff;
   --dl-color-original-brown: #914332ff;
@@ -20,6 +23,7 @@
   --dl-space-space-halfunit: 8px;
   --dl-space-space-sixunits: 96px;
   --dl-space-space-twounits: 32px;
+  --dl-color-scheme-about-us: #d5dce6ff;
   --dl-color-scheme-darkblue: #191919ff;
   --dl-color-scheme-services: #8fbb99ff;
   --dl-radius-radius-radius2: 2px;
@@ -34,13 +38,15 @@
   --dl-space-space-threeunits: 48px;
   --dl-color-original-darkblue: #191919ff;
   --dl-color-original-darkgray: #9095a7ff;
+  --dl-color-scheme-contact-us: #3d408eff;
   --dl-color-scheme-headertext: #f4f4f4ff;
   --dl-color-original-lightblue: #162d5aff;
   --dl-color-original-lightgray: #ddf5f5ff;
   --dl-color-original-lightbrown: #f9f4f0ff;
-  --dl-color-scheme-header-footer: #e0e1ddff;
+  --dl-color-scheme-about-us-text: #000000ff;
   --dl-color-scheme-services-card: #bfcde0ff;
   --dl-color-scheme-services-text: #000000ff;
+  --dl-color-scheme-checkmark-icon: #1b263bff;
   --dl-space-space-oneandhalfunits: 24px;
   --dl-color-scheme-icon-background: #778da9ff;
 }
@@ -278,7 +284,7 @@
   box-shadow: inset 0px -2px 0px #B6472F;
 }
 .icon {
-  fill: var(--dl-color-scheme-brown);
+  fill: var(--dl-color-scheme-checkmark-icon);
   width: 18px;
   height: 18px;
   min-width: 18px;
