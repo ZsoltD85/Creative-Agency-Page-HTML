@@ -129,7 +129,8 @@
   justify-content: space-between;
 }
 .home-image {
-  height: 2rem;
+  width: 196px;
+  height: auto;
 }
 .home-menu-close {
   display: flex;
@@ -665,6 +666,9 @@
     padding-left: var(--dl-space-space-twounits);
     padding-right: var(--dl-space-space-twounits);
   }
+  .home-logo {
+    width: var(--dl-size-size-large);
+  }
   .home-desktop-menu {
     display: none;
   }
@@ -712,6 +716,9 @@
   }
   .home-mobile-menu {
     padding: 16px;
+  }
+  .home-image {
+    width: var(--dl-size-size-large);
   }
   .home-max-width5 {
     flex-direction: column;
