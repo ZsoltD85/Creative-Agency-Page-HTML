@@ -265,23 +265,6 @@
   justify-content: space-between;
   background-color: #fff;
 }
-.tab-selector-btn {
-  cursor: pointer;
-  font-style: normal;
-  transition: 0.3s;
-  font-weight: 700;
-  line-height: 21px;
-  padding-top: 10px;
-  padding-left: 5px;
-  padding-right: 5px;
-  padding-bottom: 10px;
-}
-.tab-selector-btn:hover {
-  box-shadow: inset 0px -2px 0px #B6472F;
-}
-.tab-selector-btn:active {
-  box-shadow: inset 0px -2px 0px #B6472F;
-}
 .icon {
   fill: var(--dl-color-scheme-checkmark-icon);
   width: 18px;
