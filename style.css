@@ -24,17 +24,10 @@
   --dl-space-space-fiveunits: 80px;
   --dl-space-space-fourunits: 64px;
   --dl-color-scheme-lightblue: #162d5aff;
+  --dl-color-scheme-lightgray: #ddf5f5ff;
   --dl-space-space-threeunits: 48px;
   --dl-color-scheme-lightbrown: #f9f4f0ff;
   --dl-space-space-oneandhalfunits: 24px;
-}
-.3 {
-  font-size: 36px;
-  font-family: DM Serif Display;
-  font-weight: 400;
-  line-height: 70px;
-  letter-spacing: 0.01em;
-  text-decoration: none;
 }
 .button {
   color: var(--dl-color-scheme-black);
@@ -275,6 +268,9 @@
   height: 18px;
   min-width: 18px;
   margin-right: var(--dl-space-space-unit);
+}
+.check-item {
+  margin: var(--dl-space-space-halfunit);
 }
 .Navigation-Link {
   font-size: 16px;

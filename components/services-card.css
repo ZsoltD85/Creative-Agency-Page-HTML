@@ -25,10 +25,6 @@
 .services-card-text1 {
   margin-bottom: var(--dl-space-space-oneandhalfunits);
 }
-.services-card-text2 {
-  cursor: pointer;
-  text-decoration: underline;
-}
 
 
 
