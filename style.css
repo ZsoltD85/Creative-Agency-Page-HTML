@@ -103,6 +103,7 @@
   padding-top: 112px;
   flex-direction: column;
   padding-bottom: 112px;
+  scroll-margin-top: 112px;
 }
 .footer {
   flex: 0 0 auto;
