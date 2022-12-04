@@ -57,6 +57,10 @@
   </head>
   <body>
     <div>
+      <script
+        type="text/javascript"
+        src="https://unpkg.com/dangerous-html@0.1.11/dist/default/lib.umd.js"
+      ></script>
       <link href="./home.css" rel="stylesheet" />
 
       <div class="home-container">
@@ -545,6 +549,13 @@
                 src="public/playground_assets/map1-700h.png"
                 class="home-image11"
               />
+              <div id="map" class="map-container map-root-class-name">
+                <div>
+                  <dangerous-html
+                    html="<iframe src='https://www.google.com/maps/d/embed?mid=1U4rJNkmQNqRpoe6fuKRhj-ZPST_x7I4&amp;ehbc=2E312F' width='640' height='480'></iframe>"
+                  ></dangerous-html>
+                </div>
+              </div>
             </div>
           </div>
           <div id="contact-us" class="home-banner section-container">
