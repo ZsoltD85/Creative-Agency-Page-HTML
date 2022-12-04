@@ -715,11 +715,10 @@
   font-weight: 500;
 }
 .home-container11 {
-  flex: 0 0 auto;
-  width: 960px;
+  width: 100%;
   display: flex;
   align-self: center;
-  align-items: flex-start;
+  align-items: center;
   justify-content: center;
 }
 .home-banner {
