@@ -258,7 +258,7 @@
   .section-container {
     padding-top: var(--dl-space-space-twounits);
     padding-bottom: var(--dl-space-space-twounits);
-    scroll-margin-top: var(--dl-space-space-fourunits);
+    scroll-margin-top: var(--dl-space-space-sixunits);
   }
   .slide {
     min-width: 75%;
