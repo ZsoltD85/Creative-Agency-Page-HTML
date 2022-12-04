@@ -808,11 +808,15 @@
   flex-direction: row;
   justify-content: center;
 }
+.home-link12 {
+  display: contents;
+}
 .home-icon22 {
   width: var(--dl-size-size-small);
   height: var(--dl-size-size-small);
+  text-decoration: none;
 }
-.home-link12 {
+.home-link13 {
   display: contents;
 }
 .home-icon24 {
