@@ -189,14 +189,10 @@
 }
 .home-heading {
   color: var(--dl-color-scheme-headertext);
-  font-size: 24px;
   margin-top: var(--dl-space-space-twounits);
   text-align: center;
   font-family: DM Serif Display;
-  font-weight: 400;
   margin-bottom: var(--dl-space-space-twounits);
-  letter-spacing: 0.01em;
-  text-decoration: none;
 }
 .home-text008 {
   color: var(--dl-color-scheme-headertext);
