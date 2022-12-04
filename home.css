@@ -211,28 +211,12 @@
   letter-spacing: 0.01em;
   text-decoration: none;
 }
-.home-text009 {
-  box-shadow: rgb(212, 212, 212) 5px 5px 10px 0px;
-}
 .home-text011 {
   font-style: normal;
   font-family: DM Serif Display;
   font-weight: 400;
 }
 .home-text012 {
-  color: var(--dl-color-scheme-headertext);
-  font-size: 45px;
-  margin-top: var(--dl-space-space-twounits);
-  text-align: center;
-  font-family: DM Serif Display;
-  font-weight: 400;
-  line-height: 70px;
-  text-shadow: 2px 2px #ffffffff;
-  margin-bottom: var(--dl-space-space-twounits);
-  letter-spacing: 0.01em;
-  text-decoration: none;
-}
-.home-text014 {
   color: var(--dl-color-scheme-headertext);
   margin-top: var(--dl-space-space-twounits);
   text-align: center;
@@ -301,7 +285,7 @@
   align-items: flex-start;
   flex-direction: column;
 }
-.home-text017 {
+.home-text015 {
   color: var(--dl-color-scheme-services-text1);
   font-style: normal;
   text-align: center;
@@ -337,14 +321,14 @@
   height: 24px;
   object-fit: contain;
 }
-.home-text020 {
+.home-text018 {
   color: var(--dl-color-scheme-services-text);
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text021 {
+.home-text019 {
   color: var(--dl-color-scheme-services-text);
   margin-bottom: var(--dl-space-space-oneandhalfunits);
 }
@@ -367,14 +351,14 @@
   height: 24px;
   object-fit: contain;
 }
-.home-text034 {
+.home-text032 {
   color: var(--dl-color-scheme-services-text);
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text035 {
+.home-text033 {
   color: var(--dl-color-scheme-services-text);
   margin-bottom: var(--dl-space-space-oneandhalfunits);
 }
@@ -397,14 +381,14 @@
   height: 24px;
   object-fit: contain;
 }
-.home-text048 {
+.home-text046 {
   color: var(--dl-color-scheme-services-text);
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text049 {
+.home-text047 {
   color: var(--dl-color-scheme-services-text);
   text-align: left;
   margin-bottom: var(--dl-space-space-oneandhalfunits);
@@ -428,14 +412,14 @@
   height: 24px;
   object-fit: contain;
 }
-.home-text059 {
+.home-text057 {
   color: var(--dl-color-scheme-services-text);
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text060 {
+.home-text058 {
   color: var(--dl-color-scheme-services-text);
   text-align: left;
   margin-bottom: var(--dl-space-space-oneandhalfunits);
@@ -459,14 +443,14 @@
   height: 24px;
   object-fit: contain;
 }
-.home-text069 {
+.home-text067 {
   color: var(--dl-color-scheme-services-text);
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text070 {
+.home-text068 {
   color: var(--dl-color-scheme-services-text);
   text-align: left;
   margin-bottom: var(--dl-space-space-oneandhalfunits);
@@ -490,14 +474,14 @@
   height: 24px;
   object-fit: contain;
 }
-.home-text077 {
+.home-text075 {
   color: var(--dl-color-scheme-services-text);
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text078 {
+.home-text076 {
   color: var(--dl-color-scheme-services-text);
   margin-bottom: var(--dl-space-space-oneandhalfunits);
 }
@@ -516,7 +500,7 @@
   object-fit: cover;
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text079 {
+.home-text077 {
   color: var(--dl-color-scheme-white);
   font-size: 20px;
   text-align: center;
@@ -536,7 +520,7 @@
   margin-right: var(--dl-space-space-unit);
   flex-direction: column;
 }
-.home-text080 {
+.home-text078 {
   color: var(--dl-color-scheme-about-us-text);
   font-style: normal;
   text-align: center;
@@ -545,7 +529,7 @@
   letter-spacing: 0.1em;
   text-transform: uppercase;
 }
-.home-text083 {
+.home-text081 {
   color: var(--dl-color-scheme-about-us-text);
   font-size: 36px;
   font-family: DM Serif Display;
@@ -568,7 +552,7 @@
   align-items: center;
   flex-direction: row;
 }
-.home-text084 {
+.home-text082 {
   color: var(--dl-color-scheme-about-us-text);
   font-style: normal;
   font-weight: 500;
@@ -585,7 +569,7 @@
   height: 18px;
   margin-right: var(--dl-space-space-unit);
 }
-.home-text085 {
+.home-text083 {
   color: var(--dl-color-scheme-about-us-text);
   font-style: normal;
   font-weight: 500;
@@ -602,7 +586,7 @@
   height: 18px;
   margin-right: var(--dl-space-space-unit);
 }
-.home-text088 {
+.home-text086 {
   color: var(--dl-color-scheme-about-us-text);
   font-style: normal;
   font-weight: 500;
@@ -619,7 +603,7 @@
   height: 18px;
   margin-right: var(--dl-space-space-unit);
 }
-.home-text089 {
+.home-text087 {
   color: var(--dl-color-scheme-about-us-text);
   font-style: normal;
   font-weight: 500;
@@ -636,7 +620,7 @@
   height: 18px;
   margin-right: var(--dl-space-space-unit);
 }
-.home-text090 {
+.home-text088 {
   color: var(--dl-color-scheme-about-us-text);
   font-style: normal;
   font-weight: 500;
@@ -653,7 +637,7 @@
   height: 18px;
   margin-right: var(--dl-space-space-unit);
 }
-.home-text091 {
+.home-text089 {
   color: var(--dl-color-scheme-about-us-text);
   font-style: normal;
   font-weight: 500;
@@ -670,7 +654,7 @@
   height: 18px;
   margin-right: var(--dl-space-space-unit);
 }
-.home-text094 {
+.home-text092 {
   color: var(--dl-color-scheme-about-us-text);
   font-style: normal;
   font-weight: 500;
@@ -687,7 +671,7 @@
   height: 18px;
   margin-right: var(--dl-space-space-unit);
 }
-.home-text097 {
+.home-text095 {
   color: var(--dl-color-scheme-about-us-text);
   font-style: normal;
   font-weight: 500;
@@ -704,7 +688,7 @@
   height: 18px;
   margin-right: var(--dl-space-space-unit);
 }
-.home-text100 {
+.home-text098 {
   color: var(--dl-color-scheme-about-us-text);
   font-style: normal;
   font-weight: 500;
@@ -717,7 +701,7 @@
   flex-direction: column;
   justify-content: space-between;
 }
-.home-text103 {
+.home-text101 {
   color: var(--dl-color-scheme-white);
   font-style: normal;
   text-align: center;
@@ -726,7 +710,7 @@
   letter-spacing: 0.1em;
   text-transform: uppercase;
 }
-.home-text106 {
+.home-text104 {
   color: var(--dl-color-scheme-white);
   font-style: normal;
   text-align: left;
@@ -747,7 +731,7 @@
   flex-direction: column;
   justify-content: space-between;
 }
-.home-text112 {
+.home-text110 {
   color: var(--dl-color-scheme-contact-text);
   align-self: flex-start;
   font-style: normal;
@@ -757,7 +741,15 @@
   letter-spacing: 0.1em;
   text-transform: uppercase;
 }
-.home-text115 {
+.home-text113 {
+  color: var(--dl-color-scheme-contact-text);
+  font-style: normal;
+  text-align: center;
+  font-weight: 500;
+  line-height: 26px;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.home-text116 {
   color: var(--dl-color-scheme-contact-text);
   font-style: normal;
   text-align: center;
@@ -766,14 +758,6 @@
   margin-bottom: var(--dl-space-space-halfunit);
 }
 .home-text118 {
-  color: var(--dl-color-scheme-contact-text);
-  font-style: normal;
-  text-align: center;
-  font-weight: 500;
-  line-height: 26px;
-  margin-bottom: var(--dl-space-space-halfunit);
-}
-.home-text120 {
   line-height: 26px;
 }
 .home-container12 {
@@ -792,7 +776,7 @@
   font-weight: 500;
   text-decoration: none;
 }
-.home-text121 {
+.home-text119 {
   font-size: 20px;
 }
 .home-link11 {
@@ -802,7 +786,7 @@
   font-weight: 500;
   text-decoration: none;
 }
-.home-text123 {
+.home-text121 {
   color: var(--dl-color-scheme-contact-text);
   font-size: 18px;
   font-style: normal;
@@ -841,7 +825,7 @@
   width: 256px;
   object-fit: cover;
 }
-.home-text127 {
+.home-text125 {
   color: var(--dl-color-scheme-white);
   align-self: center;
 }
@@ -867,15 +851,6 @@
   }
   .home-text010 {
     font-size: 39px;
-  }
-  .home-text012 {
-    color: var(--dl-color-scheme-headertext);
-    font-size: 45px;
-    font-family: DM Serif Display;
-    font-weight: 400;
-    line-height: 70px;
-    letter-spacing: 0.01em;
-    text-decoration: none;
   }
   .home-container03 {
     width: 100%;
@@ -942,7 +917,7 @@
   .home-image11 {
     margin-bottom: var(--dl-space-space-unit);
   }
-  .home-text127 {
+  .home-text125 {
     text-align: center;
   }
 }
