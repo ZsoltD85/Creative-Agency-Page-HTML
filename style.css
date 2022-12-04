@@ -185,7 +185,7 @@
 .home-main-image {
   box-shadow: 5px 10px 20px;
 }
-.home-menu-close {
+.mobile-menu-item {
   margin-bottom: var(--dl-space-space-unit);
   text-decoration: none;
 }
