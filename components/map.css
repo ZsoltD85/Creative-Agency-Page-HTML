@@ -11,6 +11,26 @@
   width: 960px;
   height: 640px;
 }
+.map-div1 {
+  width: 480px;
+  height: 720px;
+  display: none;
+}
 .map-root-class-name {
   height: 640px;
+}
+@media(max-width: 991px) {
+  .map-div {
+    display: none;
+    align-self: flex-end;
+  }
+  .map-div1 {
+    display: block;
+    align-self: center;
+  }
+}
+@media(max-width: 767px) {
+  .map-div1 {
+    align-self: center;
+  }
 }
