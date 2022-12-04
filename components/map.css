@@ -15,6 +15,7 @@
   width: 480px;
   height: 640px;
   display: none;
+  align-self: center;
 }
 .map-root-class-name {
   height: 640px;
@@ -26,11 +27,5 @@
   }
   .map-div1 {
     display: block;
-    align-self: center;
-  }
-}
-@media(max-width: 767px) {
-  .map-div1 {
-    align-self: center;
   }
 }
