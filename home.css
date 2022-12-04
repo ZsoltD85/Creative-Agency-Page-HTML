@@ -161,6 +161,7 @@
   padding-top: 128px;
   background-size: cover;
   object-position: bottom;
+  background-color: var(--dl-color-scheme-home);
   background-image: url("public/playground_assets/home-background-1500w.png");
 }
 .home-max-width {
@@ -316,7 +317,6 @@
 }
 .home-text022 {
   color: var(--dl-color-scheme-services-text);
-  text-align: left;
   margin-bottom: var(--dl-space-space-oneandhalfunits);
 }
 .home-services-card1 {
@@ -338,16 +338,15 @@
   height: 24px;
   object-fit: contain;
 }
-.home-text032 {
+.home-text035 {
   color: var(--dl-color-scheme-services-text);
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text033 {
+.home-text036 {
   color: var(--dl-color-scheme-services-text);
-  text-align: left;
   margin-bottom: var(--dl-space-space-oneandhalfunits);
 }
 .home-services-card2 {
@@ -369,14 +368,14 @@
   height: 24px;
   object-fit: contain;
 }
-.home-text042 {
+.home-text049 {
   color: var(--dl-color-scheme-services-text);
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text043 {
+.home-text050 {
   color: var(--dl-color-scheme-services-text);
   text-align: left;
   margin-bottom: var(--dl-space-space-oneandhalfunits);
@@ -400,15 +399,16 @@
   height: 24px;
   object-fit: contain;
 }
-.home-text050 {
+.home-text060 {
   color: var(--dl-color-scheme-services-text);
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text051 {
+.home-text061 {
   color: var(--dl-color-scheme-services-text);
+  text-align: left;
   margin-bottom: var(--dl-space-space-oneandhalfunits);
 }
 .home-services-card4 {
@@ -430,15 +430,16 @@
   height: 24px;
   object-fit: contain;
 }
-.home-text052 {
+.home-text070 {
   color: var(--dl-color-scheme-services-text);
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text053 {
+.home-text071 {
   color: var(--dl-color-scheme-services-text);
+  text-align: left;
   margin-bottom: var(--dl-space-space-oneandhalfunits);
 }
 .home-services-card5 {
@@ -460,14 +461,14 @@
   height: 24px;
   object-fit: contain;
 }
-.home-text066 {
+.home-text078 {
   color: var(--dl-color-scheme-services-text);
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
   margin-bottom: var(--dl-space-space-unit);
 }
-.home-text067 {
+.home-text079 {
   color: var(--dl-color-scheme-services-text);
   margin-bottom: var(--dl-space-space-oneandhalfunits);
 }
