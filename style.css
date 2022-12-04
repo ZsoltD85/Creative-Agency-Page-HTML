@@ -260,10 +260,6 @@
   }
 }
 @media(max-width: 767px) {
-  .section-container {
-    padding-top: var(--dl-space-space-twounits);
-    padding-bottom: var(--dl-space-space-twounits);
-  }
   .slide {
     min-width: 80%;
     margin-left: var(--dl-space-space-halfunit);
