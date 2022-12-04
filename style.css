@@ -111,9 +111,9 @@
   display: flex;
   position: relative;
   align-items: center;
-  padding-top: var(--dl-space-space-twounits);
+  padding-top: var(--dl-space-space-halfunit);
   flex-direction: column;
-  padding-bottom: var(--dl-space-space-twounits);
+  padding-bottom: var(--dl-space-space-halfunit);
 }
 .max-content-container {
   width: 100%;
@@ -261,10 +261,6 @@
 }
 @media(max-width: 767px) {
   .section-container {
-    padding-top: var(--dl-space-space-twounits);
-    padding-bottom: var(--dl-space-space-twounits);
-  }
-  .footer {
     padding-top: var(--dl-space-space-twounits);
     padding-bottom: var(--dl-space-space-twounits);
   }
