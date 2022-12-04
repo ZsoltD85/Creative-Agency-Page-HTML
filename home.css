@@ -202,6 +202,9 @@
   letter-spacing: 0.01em;
   text-decoration: none;
 }
+.home-text011 {
+  font-size: 36px;
+}
 .home-text012 {
   color: var(--dl-color-scheme-headertext);
   margin-top: var(--dl-space-space-twounits);
