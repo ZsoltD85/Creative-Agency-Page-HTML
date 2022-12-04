@@ -791,19 +791,15 @@
   align-self: center;
 }
 @media(max-width: 991px) {
+  .home-desktop-menu {
+    display: none;
+  }
+  .home-burger-menu {
+    display: flex;
+  }
   .home-heading-container {
     max-width: 100%;
     margin-bottom: 42px;
-  }
-  .home-gallery {
-    flex-direction: column;
-  }
-  .home-container02 {
-    width: 100%;
-  }
-  .home-image01 {
-    width: 776px;
-    height: 1129px;
   }
   .home-container03 {
     width: 100%;
@@ -829,9 +825,6 @@
   .home-logo {
     width: var(--dl-size-size-large);
   }
-  .home-desktop-menu {
-    display: none;
-  }
   .home-link02 {
     margin-left: var(--dl-space-space-unit);
   }
@@ -847,7 +840,13 @@
   .home-burger-menu {
     display: flex;
   }
+  .home-gallery {
+    display: none;
+  }
   .home-image03 {
+    width: 100%;
+  }
+  .home-image10 {
     width: 100%;
   }
 }
