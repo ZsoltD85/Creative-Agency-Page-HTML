@@ -212,6 +212,8 @@
   text-decoration: none;
 }
 .home-text011 {
+  color: var(--dl-color-scheme-headertext);
+  font-size: 24px;
   font-style: normal;
   font-family: DM Serif Display;
   font-weight: 400;
@@ -220,6 +222,7 @@
   color: var(--dl-color-scheme-headertext);
   margin-top: var(--dl-space-space-twounits);
   text-align: center;
+  font-family: DM Serif Display;
   margin-bottom: var(--dl-space-space-twounits);
 }
 .home-gallery {
@@ -715,6 +718,9 @@
   font-style: normal;
   text-align: left;
   font-weight: 500;
+}
+.home-text105 {
+  line-height: 2;
 }
 .home-container11 {
   width: 100%;
