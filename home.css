@@ -217,6 +217,7 @@
   font-style: normal;
   font-family: DM Serif Display;
   font-weight: 400;
+  margin-bottom: var(--dl-space-space-unit);
 }
 .home-text012 {
   color: var(--dl-color-scheme-headertext);
@@ -849,15 +850,6 @@
   .home-heading-container {
     max-width: 100%;
     margin-bottom: 42px;
-  }
-  .home-text008 {
-    color: var(--dl-color-scheme-headertext);
-    font-size: 45px;
-    font-family: DM Serif Display;
-    font-weight: 400;
-    line-height: 70px;
-    letter-spacing: 0.01em;
-    text-decoration: none;
   }
   .home-text010 {
     font-size: 39px;
