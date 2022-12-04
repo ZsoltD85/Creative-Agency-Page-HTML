@@ -708,7 +708,7 @@
   font-style: normal;
   text-align: left;
   font-weight: 500;
-  margin-bottom: var(--dl-space-space-threeunits);
+  margin-bottom: var(--dl-space-space-fourunits);
 }
 .home-container11 {
   width: 100%;
@@ -852,6 +852,9 @@
     width: 100%;
     margin-right: 0px;
     margin-bottom: var(--dl-space-space-oneandhalfunits);
+  }
+  .home-text105 {
+    margin-bottom: var(--dl-space-space-twounits);
   }
   .home-container12 {
     flex-direction: column;
