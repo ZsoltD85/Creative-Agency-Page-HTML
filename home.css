@@ -7,7 +7,9 @@
   flex-direction: column;
   justify-content: center;
 }
-
+.map-root-class-name {
+  height: 640px;
+}
 
 .home-container {
   width: 100%;
