@@ -902,6 +902,12 @@
   .home-image10 {
     width: 100%;
   }
+  .home-text113 {
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .home-text116 {
+    margin-bottom: var(--dl-space-space-unit);
+  }
 }
 @media(max-width: 479px) {
   .home-navbar-interactive {
