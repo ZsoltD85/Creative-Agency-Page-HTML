@@ -739,7 +739,7 @@
 
         runAllScripts();
 
-        mobileMenuItems = getElementsByClassName("mobile-menu-item");
+        mobileMenuItems = document.getElementsByClassName("mobile-menu-item");
         mobileMenuItems.forEach((item) => {
             item.addEventListener("click", () => {
                 mobileMenu.classList.remove("teleport-show");
