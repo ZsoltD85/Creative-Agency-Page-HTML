@@ -742,9 +742,10 @@
         mobileMenuItems = teleport.getAllElByClass("mobile-menu-item");
         mobileMenuItems.forEach((item) => {
             item.addEventListener("click", () => {
-            mobileMenu.classList.remove("teleport-show");
-            mobileMenu.classList.remove("thq-show");
-            mobileMenu.classList.remove("thq-translate-to-default");
+                mobileMenu.classList.remove("teleport-show");
+                mobileMenu.classList.remove("thq-show");
+                mobileMenu.classList.remove("thq-translate-to-default");
+            })
         });
 
       };
