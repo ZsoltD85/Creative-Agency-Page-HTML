@@ -153,22 +153,6 @@
   align-items: flex-start;
   flex-direction: column;
 }
-.home-text003 {
-  margin-bottom: var(--dl-space-space-unit);
-  text-decoration: none;
-}
-.home-link09 {
-  margin-bottom: var(--dl-space-space-unit);
-  text-decoration: none;
-}
-.home-link10 {
-  margin-bottom: var(--dl-space-space-unit);
-  text-decoration: none;
-}
-.home-link11 {
-  margin-bottom: var(--dl-space-space-unit);
-  text-decoration: none;
-}
 .home-main {
   flex: 0 0 auto;
   width: 100%;
