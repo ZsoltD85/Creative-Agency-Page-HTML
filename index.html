@@ -739,14 +739,23 @@
 
         runAllScripts();
 
-        mobileMenuItems = document.getElementsByClassName("mobile-menu-item");
-        mobileMenuItems.forEach((item) => {
-            item.addEventListener("click", () => {
-                mobileMenu.classList.remove("teleport-show");
-                mobileMenu.classList.remove("thq-show");
-                mobileMenu.classList.remove("thq-translate-to-default");
-            })
-        });
+        burgerMenuElements = document.getElementsByClassName("teleport-menu-burger");
+
+        if(burgerMenuElements[0])
+        {
+            mobileMenu = burgerMenuElements[0]
+            mobileMenuItems = document.getElementsByClassName("mobile-menu-item");
+
+            for (let item of mobileMenuItems) {
+                item.addEventListener("click", () => {
+                    mobileMenu.classList.remove("teleport-show");
+                    mobileMenu.classList.remove("thq-show");
+                    mobileMenu.classList.remove("thq-translate-to-default");
+                })
+            };
+        }
+
+
 
       };
     </script>
