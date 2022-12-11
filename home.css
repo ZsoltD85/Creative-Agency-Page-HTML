@@ -86,6 +86,14 @@
   margin-left: var(--dl-space-space-twounits);
   text-decoration: none;
 }
+.home-link06 {
+  margin-left: var(--dl-space-space-twounits);
+  text-decoration: none;
+}
+.home-link07 {
+  margin-left: var(--dl-space-space-twounits);
+  text-decoration: none;
+}
 .home-burger-menu {
   display: none;
   align-items: center;
@@ -122,7 +130,7 @@
   margin-bottom: var(--dl-space-space-threeunits);
   justify-content: space-between;
 }
-.home-link06 {
+.home-link08 {
   display: contents;
 }
 .home-image {
@@ -149,15 +157,15 @@
   margin-bottom: var(--dl-space-space-unit);
   text-decoration: none;
 }
-.home-link07 {
-  margin-bottom: var(--dl-space-space-unit);
-  text-decoration: none;
-}
-.home-link08 {
-  margin-bottom: var(--dl-space-space-unit);
-  text-decoration: none;
-}
 .home-link09 {
+  margin-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+.home-link10 {
+  margin-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+.home-link11 {
   margin-bottom: var(--dl-space-space-unit);
   text-decoration: none;
 }
@@ -763,7 +771,7 @@
   flex-direction: row;
   justify-content: space-around;
 }
-.home-link10 {
+.home-link12 {
   color: var(--dl-color-scheme-contact-text);
   font-size: 24px;
   font-style: normal;
@@ -773,7 +781,7 @@
 .home-text117 {
   font-size: 20px;
 }
-.home-link11 {
+.home-link13 {
   color: var(--dl-color-scheme-contact-text);
   font-size: 20px;
   font-style: normal;
@@ -796,7 +804,7 @@
   flex-direction: row;
   justify-content: center;
 }
-.home-link12 {
+.home-link14 {
   display: contents;
 }
 .home-icon22 {
@@ -804,7 +812,7 @@
   height: var(--dl-size-size-small);
   text-decoration: none;
 }
-.home-link13 {
+.home-link15 {
   display: contents;
 }
 .home-icon24 {
@@ -877,6 +885,12 @@
     margin-left: var(--dl-space-space-unit);
   }
   .home-link05 {
+    margin-left: var(--dl-space-space-unit);
+  }
+  .home-link06 {
+    margin-left: var(--dl-space-space-unit);
+  }
+  .home-link07 {
     margin-left: var(--dl-space-space-unit);
   }
   .home-burger-menu {
