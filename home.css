@@ -845,6 +845,9 @@
     width: 100%;
     align-items: stretch;
   }
+  .home-text033 {
+    color: var(--dl-color-scheme-services-text);
+  }
   .home-max-width2 {
     flex-direction: column;
   }
