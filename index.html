@@ -56,11 +56,6 @@
       href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital,wght@0,400;1,400&amp;display=swap"
       data-tag="font"
     />
-    <style>
-      .services-card:hover > div{
-      background-color: #fff
-      }
-    </style>
     <link rel="stylesheet" href="./style.css" />
   </head>
   <body>
@@ -743,6 +738,15 @@
         };
 
         runAllScripts();
+
+        mobileMenuItems = teleport.getAllElByClass("mobile-menu-item");
+        mobileMenuItems.forEach((item) => {
+            item.addEventListener("click", () => {
+            mobileMenu.classList.remove("teleport-show");
+            mobileMenu.classList.remove("thq-show");
+            mobileMenu.classList.remove("thq-translate-to-default");
+        });
+
       };
     </script>
     <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
